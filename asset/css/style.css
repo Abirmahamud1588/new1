@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+body{
+    
+    font-family: 'Quicksand', sans-serif;
+}
+
+.rounded-pill{
+border-radius:30px;     
+}
+.dropdown-item {
+   
+    color: black;
+    background-color: white;
+
+}   
+a{
+    text-decoration: none;
+    
+    color: #7F7F7F;
+}
+a:hover {
+    color: #0056b3;
+    text-decoration: none;
+}
+.sidebar a:hover{
+    color: #0C66FF;
+    text-decoration:none;
+   
+    
+}
+.sidebar h3{
+    font-size:25px;
+    color: #35363A;
+    font-weight: 800;
+}
+.sidebar a{
+    color: #35363A;
+    transition-duration: 0.51s;
+    display: block;
+}
+.sidebar a:hover{
+     transform: translate(5px); 
+}
+.sidebar {
+    padding: 80px 3px;
+   
+    overflow-x: hidden;
+    max-height: calc(100vh - 63px);
+    position: sticky;
+    top: 0;
+    margin-top: 60px;
+}
+
+blog{
+    
+}
+blog h1{
+    
+}
+blog p{
+    
+}
+.blog{
+
+    margin-top: 41px;
+    margin-bottom: 0px;
+    border-bottom: 1px solid #35363a54;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 80px;
+}
+.postagain{
+    
+}
+.postagain h1{
+    
+    font-size: 34px;
+    font-weight: 600;
+}
+.postagain a:hover{
+    
+    /*! transform: translate; */
+}
+.postagain a{
+    
+    border-bottom: 1px dotted #35363a;
+}
+.postagain span{
+    
+    font-size: 15px;
+    color: #35363a;
+    font-weight: 500;
+    padding: 0px 8px;
+}
+.postagain p{
+    
+    font-size: 15px;
+    line-height: 1.8;
+    color: #35363a;
+    font-weight: 400;
+}
+.postagain img{
+    
+    width: 18px;
+    height: 18px;
+    border-radius: 24px;
+    /*! padding: 16px 11px; */
+    margin: 0px 11px;
+}
+
+article{
+    
+    
+}
+header{
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
